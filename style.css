@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: aliceblue;
+    padding: 20px;
+}
+.descricao{
+    text-align: center;
+    margin-bottom: 2em;
+}
+.sessao{
+    max-width: 1200px;
+ /*largura maxima da sessao*/
+ margin: 0auto;
+ box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
