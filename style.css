@@ -20,4 +20,19 @@ body{
  box-shadow: 0 0 10px rgba(red, green, blue, alpha);
  border-radius: 5px;
  background-color: #fff;
+ padding: 10px;
+}
+.texto{
+    flex: 1;
+    padding-right: 20px;
+    align-self: center;
+    padding-left: 2em;
+}
+.texto h2{
+    line-height: 2em;
+    margin-bottom: 2em;
+}
+.texto p{
+    line-height: ;
+
 }
