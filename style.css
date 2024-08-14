@@ -18,4 +18,6 @@ body{
  /*largura maxima da sessao*/
  margin: 0auto;
  box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+ border-radius: 5px;
+ background-color: #fff;
 }
